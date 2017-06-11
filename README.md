@@ -23,9 +23,11 @@ The vehicle page is powered by a SQLite database with real data from authority
 The vehicle data is from US EPA: http://www.fueleconomy.gov/feg/download.shtml
 
 ![add route page](/docs/5.PNG)
+
 After selecting car or other transportation mode, user enters a route menu, where user can select an existing route or create a new one(user can choose to not save the route).
 
 ![journey recorded](/docs/6.PNG)
+
 When a journey is recorded, a tip is given to help users reduce emissions.
 
 ![add utility bill page](/docs/7.PNG)
@@ -39,6 +41,10 @@ From home page user can open a graph page to see more specific graphs. User can 
 ![unit setting option](/docs/9.PNG)
 
 Two emission units are available. The app also supports multiple languages: English, French and Spanish(machine translated)
+
+#### Developers
+![devs](/docs/10.PNG)
+
 
 ## Usage
  (At the moment) open with Android Studio
