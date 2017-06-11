@@ -5,7 +5,7 @@ An Android app that tracks user's daily CO2 emissions(transportations and utilit
 ## Introduction
 ![welcome screen](/docs/1.PNG)
 
-The app features a refreshed UI with a original icon
+The app features a refreshed, easy to use UI with an original logo
 
 ![home page](/docs/2.PNG)
 
@@ -23,7 +23,7 @@ If the transportation mode selected is car, user enters a menu of all saved cars
 
 The vehicle page is powered by a SQLite database with real data from authority.
 
-The vehicle data is from US EPA: http://www.fueleconomy.gov/feg/download.shtml
+Vehicle data is from US EPA: http://www.fueleconomy.gov/feg/download.shtml
 
 ![add route page](/docs/5.PNG)
 
@@ -48,7 +48,17 @@ Two emission units are available. The app also supports multiple languages: Engl
 #### Developers
 ![devs](/docs/10.PNG)
 
-Zhixuan(Otto) Hu 
+Zhixuan(Otto) Hu
+
+XiaoLu(Levana) He
+
+Alison Wong
+
+Ming-Nu Lee
+
+This project was collaborately developed on Gitlab.
+
+https://csil-git1.cs.surrey.sfu.ca/276-17-1-Navy/carbon-tracker
 
 ## Usage
  (At the moment) open with Android Studio
