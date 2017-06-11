@@ -13,13 +13,16 @@ The home page displays a summary of all emissions from journeys and utility bill
 
 ![journey page](/docs/3.PNG)
 
-Journey page. From here user can add a journey starting by selecting a transportation mode: bike/walk, bus, skytrain or car
+Journey page. From here user can add a journey starting by selecting a transportation mode: bike/walk, bus, skytrain or car.
+
 User can also press a journey to edit it(trans mode, car specs, route and date can all be edited). 
 
 ![add vehicle page](/docs/4.PNG)
 
 If the transportation mode selected is car, user enters a menu of all saved cars, then user can choose to add a new car or select an existing car.
-The vehicle page is powered by a SQLite database with real data from authority
+
+The vehicle page is powered by a SQLite database with real data from authority.
+
 The vehicle data is from US EPA: http://www.fueleconomy.gov/feg/download.shtml
 
 ![add route page](/docs/5.PNG)
@@ -44,7 +47,7 @@ Two emission units are available. The app also supports multiple languages: Engl
 
 #### Developers
 ![devs](/docs/10.PNG)
-
+Zhixuan(Otto) Hu @aWildOtto
 
 ## Usage
  (At the moment) open with Android Studio
