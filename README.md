@@ -47,7 +47,8 @@ Two emission units are available. The app also supports multiple languages: Engl
 
 #### Developers
 ![devs](/docs/10.PNG)
-Zhixuan(Otto) Hu @aWildOtto
+
+Zhixuan(Otto) Hu 
 
 ## Usage
  (At the moment) open with Android Studio
