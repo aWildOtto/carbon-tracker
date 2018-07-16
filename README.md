@@ -13,7 +13,7 @@ The home page displays a summary of all CO2 emissions calculated from user's jou
 
 ![journey page](/docs/3.PNG)
 
-The journey page allows user to add a journey contains transportation mode(bike/walk, bus, skytrain or car), car specifications, route and date.
+The journey page allows user to add a journey containing transportation mode(bike/walk, bus, skytrain or car), car specifications, route and date.
 
 User can press a journey to edit its information. 
 
