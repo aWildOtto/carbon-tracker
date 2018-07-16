@@ -1,6 +1,6 @@
 # Project Carbon Tracker(GO GREEN) CMPT276@SFU
 
-An Android app that tracks user's daily CO2 emissions(transportations and utility bills). User can see daily, monthly or yearly emissions from the main page.
+An Android app that tracks user's daily CO2 emissions(transportations and utility bills). Users can see their daily, monthly or yearly emissions from the main page.
 
 ## Introduction
 ![welcome screen](/docs/1.PNG)
@@ -13,7 +13,7 @@ The home page displays a summary of all CO2 emissions calculated from user's jou
 
 ![journey page](/docs/3.PNG)
 
-The journey page allows user to add a journey which contains the information of transportation mode(bike/walk, bus, skytrain or car), car specifications, route and date.
+The journey page allows user to add a journey contains transportation mode(bike/walk, bus, skytrain or car), car specifications, route and date.
 
 User can press a journey to edit its information. 
 
@@ -35,7 +35,7 @@ When a journey is recorded, a tip is given to help users to reduce CO2 emissions
 
 ![add utility bill page](/docs/7.PNG)
 
-The utility bill page allows user to add monthly utility bills in either electricity or natural gas
+The utility bill page allows user to add monthly utility bills in either electricity or natural gas.
 
 ![more graph options](/docs/8.PNG)
 
